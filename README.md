@@ -9,7 +9,7 @@ To use :
 -Run The Program
 -Enter The Problem Code
 
-![https://github.com/Dev-veD/CodeChef-Problem-Scrapper/blob/master/Red.PNG](ScreenShot)
+![ScreenShot](https://github.com/Dev-veD/CodeChef-Problem-Scrapper/blob/master/Red.PNG)
 
 done!!
 
