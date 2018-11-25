@@ -6,8 +6,11 @@ Following libraries are required:
 3)requests
 
 To use :
+
 -Run The Program
+
 -Enter The Problem Code
+
 
 ![ScreenShot](https://github.com/Dev-veD/CodeChef-Problem-Scrapper/blob/master/Red.PNG)
 
